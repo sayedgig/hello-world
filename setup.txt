@@ -1,0 +1,5 @@
+git log
+do some changes
+git status
+to move stange from working area to stage area
+git add .
