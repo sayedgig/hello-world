@@ -3,3 +3,9 @@ do some changes
 git status
 to move stange from working area to stage area
 git add .
+git status
+change color changed from red to green
+to move from stage area to repository
+git commit -m "this is the commit"
+update the remot repository
+git push origin main
