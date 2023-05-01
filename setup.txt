@@ -9,3 +9,14 @@ to move from stage area to repository
 git commit -m "this is the commit"
 update the remot repository
 git push origin main
+
+/////////////////////////////
+Git Merge Conflicts | How Merge Conflicts Happen | How to resolve Merge Conflicts | Merge Conflict
+
+/////////////////////////////
+git branch
+git branch dev1branch
+git checkout dev1branch
+git status
+git add setup.txt
+git commit -m "update setup file"
