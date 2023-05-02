@@ -29,4 +29,5 @@ git checkout -b devolop
 git branch -l
 git checkout -b feature/add-docs
 /////////////////
-get add -A
+git add -A
+git commit -m "test"
