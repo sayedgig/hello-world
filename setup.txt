@@ -35,3 +35,5 @@ git push
     git push --set-upstream origin feature/add-docs       
 
 git checkout devolop
+git branch -l
+git push
