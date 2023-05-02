@@ -31,3 +31,7 @@ git checkout -b feature/add-docs
 /////////////////
 git add -A
 git commit -m "test"
+git push
+    git push --set-upstream origin feature/add-docs       
+
+git checkout devolop
