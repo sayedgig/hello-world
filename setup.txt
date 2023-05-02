@@ -20,3 +20,13 @@ git checkout dev1branch
 git status
 git add setup.txt
 git commit -m "update setup file"
+///////////////////////////////////
+DevOps : GIT Demo - Create, Clone, Merge Repositories
+//////////////////////////////
+Branching Strategies on Git | Real-time Git Branching Strategy for a DevOps project
+/////////////////////////////
+git checkout -b devolop
+git branch -l
+git checkout -b feature/add-docs
+/////////////////
+get add -A
